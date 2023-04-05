@@ -1,0 +1,7 @@
+﻿  BigFileOp.cpp
+D:\Yan\C_project\file_op\BigFileOp\BigFileOp.cpp(47,12): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Yan\C_project\file_op\BigFileOp\BigFileOp.cpp(52,12): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Yan\C_project\file_op\BigFileOp\BigFileOp.cpp(88,12): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Yan\C_project\file_op\BigFileOp\BigFileOp.cpp(29,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Yan\C_project\file_op\BigFileOp\BigFileOp.cpp(58,7): warning C4101: “line”: 未引用的局部变量
+  BigFileOp.vcxproj -> D:\Yan\C_project\file_op\BigFileOp\Debug\BigFileOp.exe
